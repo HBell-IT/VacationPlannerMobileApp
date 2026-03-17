@@ -26,29 +26,29 @@ A native Android application designed to help users plan, organize, and manage v
 
 ---
 
-## 🖥️ Screenshots
+##  Screenshots
 
-### 🏝️ Trip List Screen
+###  Vacation List Screen
 
-![Trip List](https://via.placeholder.com/800x400?text=Add+Your+Screenshot)
+![image alt](https://github.com/HBell-IT/VacationPlannerMobileApp/blob/d721a8ef51b5f6225fdc025e0b7fde9d97c39356/VacationsList.png)
 
-### ✏️ Add / Edit Trip
+###  Add / Edit Vacation
 
-![Edit Trip](https://via.placeholder.com/800x400?text=Add+Your+Screenshot)
+![image alt](https://github.com/HBell-IT/VacationPlannerMobileApp/blob/d721a8ef51b5f6225fdc025e0b7fde9d97c39356/VacationDetails.png)
 
-### 🗺️ Excursion Management
+###  Excursion Management
 
-![Excursions](https://via.placeholder.com/800x400?text=Add+Your+Screenshot)
+![image alt](https://github.com/HBell-IT/VacationPlannerMobileApp/blob/d721a8ef51b5f6225fdc025e0b7fde9d97c39356/ExcursionsDetails.png)
 
 ---
 
-## ⚠️ Note
+##  Note
 
 This repository is a **showcase/demo only** and does not include the full production source code.
 
 ---
 
-## 📌 Tech Stack
+##  Tech Stack
 
 * Java
 * Android SDK
